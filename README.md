@@ -35,6 +35,3 @@ It includes interactive controls for generation speed, point count, point size, 
 
    python main.py
 
-## Status
-
-Finished Python visualization project prepared for GitHub portfolio.
