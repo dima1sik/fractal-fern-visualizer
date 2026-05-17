@@ -1,11 +1,10 @@
-﻿# Fractal Fern Visualizer
+# Fractal Fern Visualizer
 
 Fractal Fern Visualizer is a Python desktop application for generating and visualizing Barnsley fern fractals.
 
 ## Overview
 
-The application uses Iterated Function Systems to generate fractal fern patterns in real time.  
-It includes interactive controls for generation speed, point count, point size, color mode, and fern presets.
+The application uses Iterated Function Systems to generate fractal fern patterns in real time with interactive controls for rendering and visualization.
 
 ## Features
 
@@ -25,13 +24,23 @@ It includes interactive controls for generation speed, point count, point size, 
 - pyqtgraph
 - NumPy
 
+## Project Structure
+
+`	ext
+main.py
+requirements.txt
+README.md
+`
+
 ## How to Run
 
-1. Install dependencies:
+1. Install dependencies: pip install -r requirements.txt.
+2. Run the application: python main.py.
 
-   pip install -r requirements.txt
+## Status
 
-2. Run the application:
+Portfolio / educational visualization project.
 
-   python main.py
+## Notes
 
+This project focuses on mathematical visualization, GUI development, and real-time rendering.
