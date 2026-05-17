@@ -1,4 +1,4 @@
-# Fractal Fern Visualizer
+﻿# Fractal Fern Visualizer
 
 Fractal Fern Visualizer is a Python desktop application for generating and visualizing Barnsley fern fractals.
 
@@ -37,10 +37,7 @@ README.md
 1. Install dependencies: pip install -r requirements.txt.
 2. Run the application: python main.py.
 
-## Status
-
-Portfolio / educational visualization project.
-
 ## Notes
 
 This project focuses on mathematical visualization, GUI development, and real-time rendering.
+
