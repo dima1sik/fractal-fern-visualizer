@@ -8,4 +8,5 @@ __pycache__/
 main_before_refactor.py
 main_final_backup.py
 main_working_v1.py
-main_working_v2.py
+main_working_v2.pyvenv/
+.pytest_cache/
